@@ -1,4 +1,4 @@
-package Java_Soru;
+package Java_Soru4;
 
 public class Q06_Average {
 

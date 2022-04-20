@@ -1,4 +1,4 @@
-package Java_Soru;
+package Java_Soru2;
 
 public class Q02_NestedTernary {
 

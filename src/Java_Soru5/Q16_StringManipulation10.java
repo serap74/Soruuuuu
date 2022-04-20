@@ -1,4 +1,4 @@
-package Java_Soru;
+package Java_Soru5;
 
 public class Q16_StringManipulation10 {
 

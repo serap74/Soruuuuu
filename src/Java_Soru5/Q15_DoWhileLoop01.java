@@ -1,4 +1,4 @@
-package Java_Soru;
+package Java_Soru5;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Java_Soru;
+package JavaSoru6;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Java_Soru;
+package Java_Soru3;
 
 public class Q04_JavaVariable {
     public static void main(String[] args) {

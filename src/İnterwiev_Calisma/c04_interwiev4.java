@@ -1,4 +1,4 @@
-package day26_study;
+package İnterwiev_Calisma;
 
 import java.util.Scanner;
 
